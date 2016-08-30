@@ -1,6 +1,3 @@
-# Miscellaneous
-Random items that may or may not need follow-up
+# Home Repository
+When it doesn't have another home, it goes here.
 
-# Contents
-## Stuff
-## More Stuff
